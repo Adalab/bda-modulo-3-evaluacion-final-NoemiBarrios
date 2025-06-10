@@ -32,7 +32,7 @@ En esta sección se realiza un análisis estadístico más avanzado con los sigu
     Se agrupan los datos por nivel educativo y se calculan medidas estadísticas como la media y la desviación estándar del número de vuelos reservados.
 
     Prueba de hipótesis:
-    Se aplica una prueba estadística (por ejemplo, ANOVA o Kruskal-Wallis) para determinar si existen diferencias significativas entre los grupos educativos.
+    Se aplica una prueba estadística para determinar si existen diferencias significativas entre los grupos educativos.
 
 - Herramientas Utilizadas
 
