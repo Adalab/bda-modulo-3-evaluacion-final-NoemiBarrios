@@ -36,15 +36,15 @@ En esta sección se realiza un análisis estadístico más avanzado con los sigu
 
 - Herramientas Utilizadas
 
-    Python
+      Python
 
-    Bibliotecas: pandas, matplotlib, seaborn, scipy o statsmodels (según el análisis estadístico realizado)
+      Bibliotecas: pandas, matplotlib o seaborn (según el análisis estadístico realizado)
 
 - Resultados Esperados
 
-    Gráficos explicativos y tablas resumen para cada pregunta del enunciado.
+      Gráficos explicativos y tablas resumen para cada pregunta del enunciado.
 
-    Conclusiones claras y justificadas con datos.
+      Conclusiones claras y justificadas con datos.
 
 <sub>Realizado por <strong>Noemi Barrios</strong><br>
 Bootcamp Data Analytics | Junio 2025</sub>
